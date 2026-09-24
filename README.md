@@ -41,6 +41,16 @@ Ao executar corretamente, a seção de testes deve finalizar com:
 
 `Todos os testes passaram!`
 
+### Explicação dos testes 5 e 6
+
+**Teste 5 — Vila Madalena → Jabaquara com Paraíso fechada**
+
+Ao fechar a estação Paraíso, a Linha 2-Verde fica interrompida entre Brigadeiro e Ana Rosa. Como a viagem começa em Vila Madalena, o passageiro não consegue alcançar Ana Rosa para realizar a integração com a Linha 1-Azul. Por isso, não existe rota até Jabaquara.
+
+**Teste 6 — Vila Prudente → Jabaquara com Paraíso fechada**
+
+Nesse caso, a viagem começa em Vila Prudente, do outro lado da interrupção. Mesmo com Paraíso fechada, é possível chegar até Ana Rosa pela Linha 2-Verde. Em Ana Rosa, o passageiro realiza a integração com a Linha 1-Azul e segue até Jabaquara. Por isso, existe uma rota com 13 paradas.
+
 ## Tecnologias utilizadas
 
 - Python
