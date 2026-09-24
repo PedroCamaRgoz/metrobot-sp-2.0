@@ -1,3 +1,7 @@
+## Autor
+
+Pedro Paulo Camargo da Silva
+
 # MetrôBot SP 2.0
 
 Projeto desenvolvido para a disciplina de Inteligência Artificial e Machine Learning.
