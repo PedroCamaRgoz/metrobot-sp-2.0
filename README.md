@@ -66,6 +66,4 @@ Nesse caso, a viagem começa em Vila Prudente, do outro lado da interrupção. M
 - ipywidgets
 - Matplotlib
 
-## Autor
 
-Pedro Paulo Camargo da Silva
